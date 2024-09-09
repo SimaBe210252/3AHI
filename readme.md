@@ -6,8 +6,8 @@ by  Jan Weichhart and Ben Simak
 
 - ### File names
   
-  - for normal files: JJJJ-MM-DD-Theme
-  - for summaries: TestDate(JJJJ-MM-DD)
+  - for normal files: JJJJ-MM-DD-Theme-NameFirstLetter
+  - for summaries: TestDate(JJJJ-MM-DD)-NameFirstLetter
 
 - ### Folder Structure
 
