@@ -4,12 +4,10 @@ by  Jan Weichhart and Ben Simak
 
 ## Structure and norms
 
-### Files
+### Files names
   
 - for normal files: JJJJ-MM-DD-Theme-NameFirstLetter
 - for summaries: TestDate(JJJJ-MM-DD)-NameFirstLetter
-- standart files are written in mark down <br>
-  look at this for help ([cheet sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
 
 ### Folder Structure
   
@@ -33,3 +31,12 @@ by  Jan Weichhart and Ben Simak
   f4 --> f6
   f5 --> f7
   ```
+
+## tools
+
+- mermaid
+  - [mermaid cheat sheet](https://mermaid.js.org/ecosystem/tutorials.html)
+- markdown
+  - [md cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- latex
+  - [latex cheat sheet](https://quickref.me/latex.html)
