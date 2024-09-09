@@ -1,6 +1,6 @@
 # 3AHIT all the Files
 
-by Jan and Benjamin
+by  Jan Weichhart and Ben Simak
 
 ## Structure and norms
 
