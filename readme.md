@@ -52,7 +52,9 @@ by  Jan Weichhart and Ben Simak
 
 - mermaid
   - [mermaid cheat sheet](https://mermaid.js.org/ecosystem/tutorials.html)
+  
 - markdown
   - [md cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 - latex
   - [latex cheat sheet](https://quickref.me/latex.html)
