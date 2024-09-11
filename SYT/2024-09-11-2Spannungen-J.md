@@ -1,7 +1,7 @@
 # spannungen
 ![alt text](img/image.png)
 
-#### geg
+geg
 $
     U1 = 10V \\
     U2 = 5V \\
@@ -9,7 +9,7 @@ $
     R2 = 100\Omega \\
     Ra = 50\Omega \\
 $
-#### ges
+ges
 $
     I_1,I_2,I_a,U_a
 $
