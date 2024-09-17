@@ -66,3 +66,8 @@ if --Yes--> send
 if --Not--> loop
 send --> loop
 ```
+
+## Resümee
+
+1) Das jeder Karte nur einmal vorhanden ist
+2) Ja
