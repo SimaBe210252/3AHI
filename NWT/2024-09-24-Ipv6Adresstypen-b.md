@@ -1,0 +1,16 @@
+- Unicast:
+  - unspecified
+  - loopback
+  - link-local
+  - unique local
+  - global
+  -embeded_ipv4
+- Multicast
+  - Reserved
+  - Interface-local
+  - Link-local
+  - Realm-Local scope
+  - Admin-local
+  - Site-local
+  - Organization-local
+  - Global scope
