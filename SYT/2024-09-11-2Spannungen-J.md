@@ -13,3 +13,5 @@ ges
 $
     I_1,I_2,I_a,U_a
 $
+
+![alt text](./img/image-1.png)
