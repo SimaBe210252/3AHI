@@ -48,3 +48,8 @@ Referat Bean
 # Chemie
 
 - 16.10.24
+
+# GGP
+
+- 8.1.25
+- 28.5.25
