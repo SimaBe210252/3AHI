@@ -25,3 +25,10 @@ Recourses
 - PIN
 - Smartkart
 - 2FA
+
+# Schwächen von Passwörtern
+
+- zu kurz
+- zu einfach
+- nicht sicher aufbewahrt
+- geleakt(Provider Gehackt)
