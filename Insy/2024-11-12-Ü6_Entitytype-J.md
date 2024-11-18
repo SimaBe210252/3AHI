@@ -2,7 +2,7 @@
 
 ## 1
 
-## Data Dictionary
+### Data Dictionary
 
 **Entitytyp**: School \
 **Attribute**: NAME,  headofSchool, specifications, type, contectData
@@ -13,7 +13,7 @@
 - **type** = [ TS | FS | AS ]
 - **Primarikey**: NAME
 
-## graphic
+### graphic
 
 ```mermaid
 mindmap
@@ -32,20 +32,33 @@ mindmap
 
 ## 2
 
-## Data Dictionary
+### Data Dictionary
 
-**Entitytyp**: Kunde \
-**Attribute**: ID,  headofSchool, specifications, type, contectData
+**Entitytyp**: Costumer \
+**Attribute**: ID, name, address, email, signInDate, 1{paymentType}, 0{tel}1
 
-- **specifications** = [ VS | NMS | AHS | BMHS | etc ]
-- **contectData** =  Hompage + Email + Tel
-- **headofSchool** = FirstName + LastName
-- **type** = [ TS | FS | AS ]
-- **Primarikey**: NAME
+- **name** = firstName + lastName + title
+- **address** = city + postcode + street + houseNumber + door
+- **Primarykey** = ID
 
-## graphic
+### graphic
 
 ```mermaid
 mindmap
+((Costumer))
+    ((**ID**))
+    ((name))
+        ((firstName))
+        ((lastName))
+    ((address))
+        ((city))
+        ((postcode))
+        ((street))
+        ((houseNumber))
+        ((door))
+    ((email))
+    ((signInDate))
+    ((paymentType))
+    ((tel))
 
 ```
