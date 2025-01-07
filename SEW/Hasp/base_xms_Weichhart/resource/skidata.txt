@@ -1,0 +1,17 @@
+OÖ, Hinterstoder, 140, 14, 11
+Steiermark, Tauplitz, 130, 16, 16
+Salzburg, Saalbach Hinterglemm, 140, 70, 69
+Salzburg, Obertauern, 180, 25, 25
+Tirol, Silian, 120, 7, 7
+Tirol, Fügen, 120, 7, 7
+Tirol, Kitzbühl/Kirchberg, 140, 7, 7
+OÖ, Hochficht, 80, 7, 7
+OÖ, Wurzeralm, 140, 7, 7
+Tirol, St.Anton, 220, 88, 86
+Salzburg, Hochkönig, 160, 33, 33
+Tirol, Serfaus Ladies, 160, 39, 39
+Tirol, Sölden, 180, 31, 31
+Tirol, St.Jakob/Defereggental, 140, 7, 7
+Salzburg, Schmittenhöhe, 150, 28, 28
+Steiermark, Kreischberg, 120, 13, 13
+Salzburg, Zauchensee Flachauwinkel, 140, 15, 15
