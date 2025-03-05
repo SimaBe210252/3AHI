@@ -1,0 +1,3 @@
+# Das Netzwerkmodell
+
+Das Netzwerkmodell basiert auf einem hierarchischen Modell, ermöglicht jedoch, dass ein Knoten Mitglied mehrerer Gruppen sein kann. Daten werden in Recordsets gespeichert, die über gerichtete Beziehungen (Sets) miteinander verbunden sind, was einen gerichteten Graphen bildet. Beziehungen zwischen Recordsets sind unidirektional(in eine Richtung); um beidseitige Beziehungen, wie zwischen Mitarbeitern und Projekten, darzustellen, wird ein zusätzliches Recordset (Mitarbeiter-Projekt) eingefügt. Ein Beispiel für eine Netzwerkdatenbank ist die UDS (Universal Datenbank System) von Siemens.
