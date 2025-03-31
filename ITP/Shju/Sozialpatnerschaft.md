@@ -431,4 +431,15 @@ Die Interessenverbände verhandeln Kollektivverträge und schließen diese beste
 
 Geben Sie an, ob die folgenden Aussagen zum österreichischen Kollektivvertragssystem zutreffen oder nicht.
 
-![alt text](17.png)
+![alt text](img/17.png)
+
+## Quiz
+
+![alt text](img/image.png)
+![alt text](img/image-1.png)
+![alt text](img/image-2.png)
+![alt text](img/image-3.png)
+![alt text](img/image-4.png)
+![alt text](img/image-5.png)
+![alt text](img/image-6.png)
+![alt text](img/image-8.png)
