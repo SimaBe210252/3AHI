@@ -309,5 +309,6 @@ pyrightconfig.json
 video/
 audio/
 photo/
+/MEDT/
 
 # End of https://www.toptal.com/developers/gitignore/api/video,python,java,maven,adobe,images
