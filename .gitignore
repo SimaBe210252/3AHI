@@ -306,5 +306,8 @@ pyrightconfig.json
 *.vob
 *.wmv
 *.webm
+video/
+audio/
+photo/
 
 # End of https://www.toptal.com/developers/gitignore/api/video,python,java,maven,adobe,images
