@@ -57,11 +57,20 @@ style: |
     font-size: 30px;
     line-height: 1.5;
   }
+
 ---
 
 # Pflichtenheft & Lastenheft
 ## Grundlagen der Anforderungsdokumentation
 von Jan und Paul
+
+---
+
+# Einführung
+- Dokumentation als Schlüssel zum Projekterfolg
+- Rechtliche Bedeutung der Dokumente
+- Vermeidung von Missverständnissen
+- Basis für Projektplanung und Kostenkalkulationen
 
 ---
 
@@ -72,6 +81,14 @@ von Jan und Paul
 - Basis für Ausschreibungen und Angebote
 
 Das Lastenheft dient als Grundlage für die Projektplanung und definiert die Erwartungen des Kunden.
+
+---
+
+# Lastenheft - Definition
+- **Zentrale Rolle**: Basis für Projektentscheidungen
+- **Verantwortlichkeit**: Auftraggeber/Kunde
+- **Zeitpunkt**: Zu Beginn des Projekts
+- **Zweck**: Ausschreibung und Angebotserstellung
 
 ---
 
@@ -117,14 +134,32 @@ Das Pflichtenheft konkretisiert die Anforderungen und legt die technische Umsetz
 
 ---
 
-# Beispiel: Webshop
+# Praktisches Beispiel: E-Commerce
+## Ausgangssituation
+- Lokales Geschäft möchte online expandieren
+- Bestehende Excel-Verwaltung
+- Keine IT-Infrastruktur
+- 5000 Produkte im Sortiment
 
-| Lastenheft:|Pflichtenheft:|
-|-----|----|
-|Online-Verkauf von Produkten |PHP/MySQL Implementation|
-|Warenkorb-Funktion|PayPal & Kreditkarte|
-|Sichere Bezahlung|OAuth Authentication|
-|Benutzerregistrierung|Responsive Design|
+---
+
+# Praxisbeispiel: Lastenheft
+- **Ziel**: Online-Shop mit Lagerverwaltung
+- **Nutzer**: 500 gleichzeitige Besucher
+- **Funktionen**: Produktsuche, Warenkorb, Bezahlung
+- **Performance**: Ladezeit unter 2 Sekunden
+- **Budget**: 50.000€
+- **Zeitrahmen**: 6 Monate
+
+---
+
+# Praxisbeispiel: Pflichtenheft
+- **Technologie**: MERN-Stack
+- **Hosting**: AWS Cloud-Infrastruktur
+- **Datenbank**: MongoDB mit Replikation
+- **Security**: SSL, 2FA, DSGVO-konform
+- **Integration**: SAP, Payment-Provider
+- **Monitoring**: ELK-Stack
 
 ---
 
@@ -152,3 +187,21 @@ Das Pflichtenheft konkretisiert die Anforderungen und legt die technische Umsetz
 - Vermeidung von Redundanzen
 - Regelmäßige Abstimmung mit Stakeholdern
 - Dokumentation von Entscheidungen
+
+---
+
+# Häufige Fehler
+- Unklare Anforderungen
+- Fehlende Priorisierung
+- Unrealistische Zeitpläne
+- Mangelnde Abstimmung
+- Unvollständige Dokumentation
+
+---
+
+# Qualitätskriterien
+- **Vollständigkeit**: Alle Anforderungen erfasst
+- **Konsistenz**: Keine Widersprüche
+- **Präzision**: Eindeutige Formulierungen
+- **Prüfbarkeit**: Messbare Kriterien
+- **Aktualität**: Regelmäßige Updates
