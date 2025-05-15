@@ -24,7 +24,22 @@ Schauen wir uns die wichtigsten Bestandteile im Detail an:
 ## Slide: Pflichtenheft
 Das Pflichtenheft ist die Antwort des Auftragnehmers auf das Lastenheft. Hier wird detailliert beschrieben, WIE die Anforderungen technisch umgesetzt werden sollen. Es ist sozusagen die "Bauanleitung" für das Projekt und bildet die Grundlage für die eigentliche Entwicklung.
 
-[Weitere Slides folgen diesem Muster...]
+## Slide: Inhalt des Pflichtenhefts
+Schauen wir uns die konkreten Bestandteile des Pflichtenhefts an:
+- Die Zielbestimmungen konkretisieren die Projektziele aus technischer Sicht
+- Der Produkteinsatz beschreibt die spezifischen Einsatzszenarien im Detail
+- Die Produktübersicht zeigt die geplante Systemarchitektur
+- Funktionale Anforderungen werden mit technischen Spezifikationen hinterlegt
+- Die technische Umsetzung beschreibt die konkrete Implementierung
+- Qualitätsanforderungen definieren messbare Kriterien
+- Der Zeitplan legt konkrete Meilensteine fest
+
+## Slide: Unterschiede
+Lassen Sie uns die wichtigsten Unterschiede zwischen Lasten- und Pflichtenheft betrachten:
+- Während das Lastenheft vom Kunden kommt, wird das Pflichtenheft vom Auftragnehmer erstellt
+- Das Lastenheft beschreibt das WAS, das Pflichtenheft das WIE
+- Im Lastenheft finden wir grobe Anforderungen, im Pflichtenheft die detaillierte Lösung
+- Das Lastenheft dient als Basis für Angebote, das Pflichtenheft als Grundlage für die Entwicklung
 
 ## Slide: Praktisches Beispiel
 Lassen Sie uns das Ganze an einem konkreten Beispiel verdeutlichen: Ein lokales Geschäft möchte in den Online-Handel einsteigen. Die aktuelle Situation ist typisch für viele kleine Unternehmen: Excel-Tabellen für die Verwaltung, keine richtige IT-Infrastruktur, aber ein großes Sortiment von 5000 Produkten.
@@ -36,6 +51,15 @@ Im Lastenheft werden nun die konkreten Anforderungen definiert:
 - Wichtige Funktionen wie Suche und Warenkorb
 - Klare Performance-Vorgaben
 - Ein definiertes Budget und ein zeitlicher Rahmen
+
+## Slide: Praxisbeispiel Pflichtenheft
+Nach den Anforderungen aus dem Lastenheft sieht das Pflichtenheft für unseren Online-Shop folgende technische Umsetzung vor:
+- Die Entwicklung erfolgt mit dem MERN-Stack für maximale Flexibilität
+- Das Hosting in der AWS-Cloud garantiert die geforderte Skalierbarkeit
+- MongoDB mit Replikation sichert die Datenverfügbarkeit
+- Moderne Sicherheitsstandards wie SSL und 2FA schützen Kunden und Daten
+- Die Integration von SAP und verschiedenen Payment-Providern ermöglicht einen reibungslosen Geschäftsbetrieb
+- Das ELK-Stack überwacht die Performance und Systemgesundheit
 
 ## Slide: Best Practices
 Bei der Erstellung von Lasten- und Pflichtenheft gibt es bewährte Praktiken, die unbedingt beachtet werden sollten. Klare und eindeutige Formulierungen sind das A und O - jede Anforderung muss unmissverständlich sein. Die Priorisierung hilft dabei, wichtige von weniger wichtigen Anforderungen zu unterscheiden. Regelmäßige Aktualisierungen stellen sicher, dass die Dokumente immer den aktuellen Stand widerspiegeln. Die Versionierung ermöglicht es, Änderungen nachzuverfolgen.
